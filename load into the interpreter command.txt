@@ -1,0 +1,1 @@
+:l "C:\\Users\\egebu\\OneDrive\\Documents\\Haskell\\first.hs"
